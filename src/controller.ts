@@ -2,6 +2,9 @@ import customerService from "./service";
 import { Response, Request } from "express";
 
 class CustomerController {
+  /*
+    3.API to get single customer data by its id.
+  */
   async getCustomerById(request: Request, response: Response) {
     try {
       const res = await customerService.getCustomersById(+request?.params?.id);
@@ -27,6 +30,11 @@ class CustomerController {
     }
   }
 
+  /*
+    5.Create an API to add a customer with validations.
+      * All fields required and the city and company should already exists for an existing customer.
+      No new city or company can be added.
+  */
   async addCustomersWithValidation(request: Request, response: Response) {
     try {
       const res = await customerService.addCustomersWithValidation(
@@ -41,6 +49,9 @@ class CustomerController {
     }
   }
 
+  /*
+    4.API to list all the unique cities with number of customers from a particular city.
+  */
   async getNumberOfCustomersForUniqueCities(
     request: Request,
     response: Response,
