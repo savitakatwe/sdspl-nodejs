@@ -39,8 +39,8 @@ The server will start on port 3002.
 {
     "firstName": "John",
     "lastName": "Doe",
-    "city": "New York",
-    "company": "ABC Corp"
+    "city": "Bangalore",
+    "company": "SublimeDataSystems"
 }
 ```
 
