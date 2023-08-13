@@ -1,0 +1,72 @@
+[
+  {
+    "customerId":1,
+    "firstName": "John",
+    "lastName": "Smith",
+    "city": "Bangalore",
+    "company": "SublimeDataSystems"
+  },
+  {
+    "customerId":2,
+    "firstName": "James",
+    "lastName": "Will",
+    "city": "Delhi",
+    "company": "SublimeDataSystems"
+  },
+  {
+    "customerId":3,
+    "firstName": "Mike",
+    "lastName": "Potter",
+    "city": "Dharwad",
+    "company": "SublimeDataSystems"
+  },
+  {
+    "customerId":4,
+    "firstName": "Kate",
+    "lastName": "J",
+    "city": "Belgavi",
+    "company": "SublimeDataSystems"
+  },
+  {
+    "customerId":5,
+    "firstName": "Joey",
+    "lastName": "T",
+    "city": "Dharwad",
+    "company": "SublimeDataSystems"
+  },
+  {
+    "customerId":6,
+    "firstName": "Ross",
+    "lastName": "S",
+    "city": "Delhi",
+    "company": "SublimeDataSystems"
+  },
+  {
+    "customerId":7,
+    "firstName": "Rachel",
+    "lastName": "S",
+    "city": "Hubli",
+    "company": "SublimeDataSystems"
+  },
+  {
+    "customerId":8,
+    "firstName": "Phoebe",
+    "lastName": "T",
+    "city": "Bangalore",
+    "company": "SublimeDataSystems"
+  },
+  {
+    "customerId":9,
+    "firstName": "Ron",
+    "lastName": "T",
+    "city": "Mumbai",
+    "company": "Google"
+  },
+  {
+    "customerId":10,
+    "firstName": "William",
+    "lastName": "Smith",
+    "city": "Bangalore",
+    "company": "SublimeDataSystems"
+  }
+]
